@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "C1ZPgaZJgkg=",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\Projetos\\AiEngineer\\src\\WebApi\\Ai.Api\\Ai.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.2\\microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.2\\microsoft.extensions.diagnostics.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.2\\microsoft.extensions.fileproviders.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.2\\microsoft.extensions.hosting.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.options\\10.0.2\\microsoft.extensions.options.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.2\\microsoft.extensions.primitives.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\openai\\2.9.1\\openai.2.9.1.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.clientmodel\\1.9.0\\system.clientmodel.1.9.0.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.2\\system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.io.pipelines\\10.0.1\\system.io.pipelines.10.0.1.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.memory.data\\10.0.1\\system.memory.data.10.0.1.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.net.serversentevents\\10.0.2\\system.net.serversentevents.10.0.2.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.text.encodings.web\\10.0.1\\system.text.encodings.web.10.0.1.nupkg.sha512",
+    "C:\\Users\\tavioaraujo\\.nuget\\packages\\system.text.json\\10.0.1\\system.text.json.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
